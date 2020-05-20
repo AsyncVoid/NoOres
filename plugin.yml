@@ -1,0 +1,5 @@
+main: me.async.noores.Main
+author: Async
+version: 0.1
+name: NoOres
+description: Remove those pesky X-Rayable ores and have a random chance of mining some from stone
